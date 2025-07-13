@@ -8,7 +8,7 @@
 
 ## 𒌐 About Me
 
-Physicist and Computer Science Engineer with a solid foundation in physics and hands-on experience in Python, SQL, automation, AWS, and Azure. I’ve built cloud-native data pipelines, containerized applications, and full-stack Laravel apps. I transitioned from Windows to Ubuntu/Linux (and also dabble on macOS), and I love exploring GitHub, video games, and a good book in my spare time. :contentReference[oaicite:0]{index=0}
+Physicist and Computer Science Engineer with a solid foundation in physics and hands-on experience in Python, SQL, automation, AWS, and Azure. I’ve built cloud-native data pipelines, containerized applications, and full-stack Laravel apps. I transitioned from Windows to Ubuntu/Linux (and also dabble on macOS), and I love exploring GitHub, video games, and a good book in my spare time. 
 
 ---
 
