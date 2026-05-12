@@ -1,8 +1,8 @@
 # 𒌐 Alex “Negatix092” Perez
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/alex-j-perez/)  
-[![Resume (ES)](https://img.shields.io/badge/Resume_(Spanish)-View-blue)](https://github.com/Negatix092/Resume/blob/main/cs-2025-spanish.pdf)  
-[![Resume (EN)](https://img.shields.io/badge/Resume_(English)-View-blue)](https://github.com/Negatix092/Resume/blob/main/cs-2025-english.pdf)
+[![Resume (ES)](https://img.shields.io/badge/Resume_(Spanish)-View-blue)](https://github.com/Negatix092/Resume/blob/main/cs-2026-spanish.pdf)  
+[![Resume (EN)](https://img.shields.io/badge/Resume_(English)-View-blue)](https://github.com/Negatix092/Resume/blob/main/cs-2026-english.pdf)
 
 ---
 
